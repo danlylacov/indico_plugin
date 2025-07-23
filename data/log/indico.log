@@ -1,0 +1,27 @@
+2025-07-24 00:51:08,841  ERROR    0000000000000000  -       indico.i18n               Configured DEFAULT_LOCALE (en_GB) does not exist
+2025-07-24 00:53:18,366  INFO     9c8377fa26c14df5  2       indico.rh                 GET /admin/plugins/ [IP=127.0.0.1] [PID=31006]
+2025-07-24 00:53:20,777  INFO     7727daa2df474c28  2       indico.rh                 GET / [IP=127.0.0.1] [PID=31006]
+2025-07-24 00:53:23,620  INFO     94d4b71cc41b4446  2       indico.rh                 GET / [IP=127.0.0.1] [PID=31006]
+2025-07-24 00:53:28,712  INFO     0f3ce7cf533a49f7  2       indico.rh                 GET /admin/settings/ [IP=127.0.0.1] [PID=31006]
+2025-07-24 00:53:29,465  INFO     503d3fbb3ff8407f  2       indico.rh                 GET /admin/version-check?_=1753307609391 [IP=127.0.0.1] [PID=31006]
+2025-07-24 00:53:31,120  INFO     a2c338f26b884b7c  2       indico.rh                 GET /admin/plugins/ [IP=127.0.0.1] [PID=31006]
+2025-07-24 01:03:12,177  INFO     34d285b027274c50  2       indico.rh                 GET /admin/plugins/ [IP=127.0.0.1] [PID=33676]
+2025-07-24 01:03:14,670  INFO     10675900b42f4a91  2       indico.rh                 GET /admin/plugins/ [IP=127.0.0.1] [PID=33676]
+2025-07-24 01:03:18,712  INFO     124325e659714fd8  2       indico.rh                 GET / [IP=127.0.0.1] [PID=33676]
+2025-07-24 01:03:20,693  INFO     03f334a9bb8c413d  2       indico.rh                 GET /event/1/ [IP=127.0.0.1] [PID=33676]
+2025-07-24 01:13:40,855  INFO     5e406d75d92242a8  2       indico.rh                 GET / [IP=127.0.0.1] [PID=36176]
+2025-07-24 01:13:46,688  INFO     6537dd38205a4a36  2       indico.rh                 GET /event/1/ [IP=127.0.0.1] [PID=36176]
+2025-07-24 01:29:19,066  INFO     91d4bee800404959  2       indico.rh                 GET / [IP=127.0.0.1] [PID=40209]
+2025-07-24 01:30:40,030  INFO     c7593494638f4b9c  2       indico.rh                 GET /admin/settings/ [IP=127.0.0.1] [PID=40209]
+2025-07-24 01:30:40,468  INFO     e1adf21c19e04ccd  2       indico.rh                 GET /admin/version-check?_=1753309840389 [IP=127.0.0.1] [PID=40209]
+2025-07-24 01:30:41,608  INFO     2cacb258cfff4d0c  2       indico.rh                 GET /admin/plugins/ [IP=127.0.0.1] [PID=40209]
+2025-07-24 01:32:10,748  ERROR    0000000000000000  -       indico.plugins            Plugin exportdocs does not exist
+2025-07-24 01:32:16,547  ERROR    0000000000000000  -       indico.plugins            Plugin exportdocs does not exist
+2025-07-24 01:32:27,134  ERROR    0000000000000000  -       indico.plugins            Plugin exportdocs does not exist
+2025-07-24 01:32:33,113  ERROR    0000000000000000  -       indico.plugins            Plugin exportdocs does not exist
+2025-07-24 01:32:38,924  ERROR    0000000000000000  -       indico.plugins            Plugin exportdocs does not exist
+2025-07-24 01:32:44,714  ERROR    0000000000000000  -       indico.plugins            Plugin exportdocs does not exist
+2025-07-24 02:00:31,367  INFO     4d465119d7e64d0d  2       indico.rh                 GET / [IP=127.0.0.1] [PID=45628]
+2025-07-24 02:00:36,655  INFO     9c455316471b4b83  2       indico.rh                 GET / [IP=127.0.0.1] [PID=45628]
+2025-07-24 02:00:40,579  INFO     c4b2d790780e46e0  2       indico.rh                 GET /admin/plugins/ [IP=127.0.0.1] [PID=45628]
+2025-07-24 02:01:18,799  INFO     718d268afb264db2  2       indico.rh                 GET /event/1/ [IP=127.0.0.1] [PID=45628]
